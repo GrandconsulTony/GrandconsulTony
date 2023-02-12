@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrandconsulTony
 - 👀 I’m interested in Python. 
-- 🌱 I’m currently purseuing a BS in Computer Science with a focus in Computer Networking. 
+- 🌱 I’m currently pursuing a BS in Computer Science with a focus in Computer Networking. 
 - 📫 How to reach me tony.neid@gmail.com
 
 <!---
